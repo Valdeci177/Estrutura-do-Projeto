@@ -1,0 +1,12 @@
+/project-root
+|-- /frontend
+|   |-- /src
+|       |-- /components
+|       |-- /pages
+|       |-- /services (para chamadas à API)
+|-- /backend
+|   |-- /models (para definição do banco de dados)
+|   |-- /routes (para definir as rotas da API)
+|   |-- /controllers (para lógica de negócios)
+|-- /database
+|-- package.json
